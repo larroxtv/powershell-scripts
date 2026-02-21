@@ -1,3 +1,8 @@
+# ================================================
+# Description:  Removes leftover Arc browser remnants
+# Author:       larroxtv (https://github.com/larroxtv)
+# ================================================
+
 Write-Host "Searching for Arc browser remnants..." -ForegroundColor Yellow
 
 $searchPaths = @(
