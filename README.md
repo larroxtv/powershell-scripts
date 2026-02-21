@@ -1,4 +1,4 @@
-# 🌼 powershell-scripts
+# 🌼 Larrox's PowerShell Scripts
 
 A growing collection of utility PowerShell scripts for Windows — built to fix annoyances, automate tasks, and clean up after badly-behaved software.
 
