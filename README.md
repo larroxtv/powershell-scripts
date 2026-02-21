@@ -10,10 +10,11 @@ A growing collection of utility PowerShell scripts for Windows — built to fix 
 - PowerShell 5.1 or later
 - Some scripts require **Administrator privileges** (noted per script)
 
-If scripts are blocked, run this once in an Admin PowerShell:
-```powershell
-Set-ExecutionPolicy RemoteSigned -Scope LocalMachine
-```
+> [!TIP]  
+> If scripts are blocked, run this **once** in an **Admin PowerShell**:
+> ```powershell
+> Set-ExecutionPolicy RemoteSigned -Scope LocalMachine
+> ```
 
 ---
 
