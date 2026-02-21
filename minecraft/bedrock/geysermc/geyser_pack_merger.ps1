@@ -1,3 +1,9 @@
+# ================================================
+# Description:  Merges two GeyserMC resource packs into one,
+#               with the overlay pack overriding the base pack's assets
+# Author:       larroxtv (https://github.com/larroxtv)
+# ================================================
+
 param(
     [string]$BasePack,
     [string]$OverlayPack,
